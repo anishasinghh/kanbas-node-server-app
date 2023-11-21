@@ -196,7 +196,5 @@ const Lab5 = (app) => {
     }
     res.send(result.toString());
   });
-
-
 };
 export default Lab5;
